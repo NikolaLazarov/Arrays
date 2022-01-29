@@ -1,3 +1,3 @@
 # Arrays
-Arrays... Arrays everywhere...
+Arrays... Arrays everywhere.
  - C# основи на езика
