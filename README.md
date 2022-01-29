@@ -1,6 +1,3 @@
 # Arrays
-Why did the programmer quit form his job?
-
-
-Because he didnt get a rise.
+Arrays... Arrays everywhere...
  - C# основи на езика
