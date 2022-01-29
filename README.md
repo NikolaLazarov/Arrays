@@ -1,3 +1,3 @@
 # Arrays
 Why did the programmer quit form his job?
-Because get a rise.
+Because he didnt get a rise.
